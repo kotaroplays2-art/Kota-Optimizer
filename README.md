@@ -31,7 +31,7 @@ Its goal is to provide a simple and practical way to manage Windows resources, r
 
 1. Download the latest release from the [Releases](../../releases) page.
 2. Extract the downloaded files, if necessary.
-3. Run `KotaOptimizer.exe`.
+3. Run `KotaOptimizer-setup.exe`.
 4. Grant administrator permissions if required.
 
 ## Compatibility
